@@ -13,6 +13,17 @@ flowchart LR
     style C fill:#1a2b26,stroke:#6d9083
 ```
 
+#### Les IA de l'écosystème
+
+| IA | Rôle | Ce qu'elle ne fait pas |
+|---|---|---|
+| Claude Opus 5.5 | Pilote : cadrage, découpage, relecture, livrables clients | Le code mécanique qu'un exécutant peut faire |
+| Claude Fable 5.1 | Juge : enquête, contre-expertise, relecture critique des sessions | Le code de production |
+| Codex | Exécutant : missions bornées en atelier jetable, correctifs, tests, travail de nuit | Décider, publier, toucher un service en production |
+| Gemini, via Antigravity | Second avis : multimodal, recherche longue, relecture lourde | Modifier sans brief écrit |
+| Qwen et Gemma, en local | Tri, classement, extraction, embeddings, données privées | Rendre seuls un verdict final |
+| Hermes | Agent de messagerie : résumé du jour, état, décisions, alertes | Traiter de gros volumes |
+
 #### Les vitrines
 
 | Dépôt | Ce qu'il montre |
@@ -20,7 +31,7 @@ flowchart LR
 | [Infrastructure](https://github.com/TimoLeDozo/Infrastructure) | 607 outils indexés, 102 sondes qui savent échouer, un sas pour tout logiciel tiers, une note sur 20 pour chaque module |
 | [MoltBot Hub](https://github.com/TimoLeDozo/MoltBot-Hub) | Un rôle par moteur, l'échelle de repli local puis cloud, un titulaire par capacité gagné au banc, une porte humaine sur l'irréversible |
 
-Les dépôts exploités restent privés. Les vitrines publient une capacité, jamais une topologie.
+Chaque vitrine a son [journal daté](https://github.com/TimoLeDozo/Infrastructure/blob/main/JOURNAL.md). Les dépôts exploités restent privés. Les vitrines publient une capacité, jamais une topologie.
 
 #### Ce qui me guide
 
