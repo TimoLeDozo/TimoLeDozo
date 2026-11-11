@@ -1,9 +1,10 @@
-### Timothé Cagin
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/banniere-sombre.svg"><img src="assets/banniere-clair.svg" alt="Timothé Cagin, ingénieur Icam 2026. J'installe l'IA dans les PME, du diagnostic à l'outil en service." width="100%"></picture>
 
 Ingénieur Icam (2026), **IA appliquée : agents, LLM, RAG, automatisation**. Je construis des agents qui tournent en production, dont on connaît le coût, les droits et le responsable.
 
-Je cherche un poste en CDI à Paris, en équipe de déploiement d'agents IA ou d'ingénierie IA appliquée.
-[LinkedIn](https://www.linkedin.com/in/timoth%C3%A9-cagin-61a711225/)
+Je cherche un poste en CDI à Paris, en équipe de déploiement d'agents IA ou d'ingénierie IA appliquée. En parallèle, j'installe l'IA dans des PME avec [ICARUS](https://icarus-ia.fr), du diagnostic à l'outil en service.
+
+<a href="https://icarus-ia.fr"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/site-sombre.svg"><img src="assets/site-clair.svg" alt="ICARUS, icarus-ia.fr" height="44"></picture></a>&nbsp;<a href="https://www.linkedin.com/in/timoth%C3%A9-cagin-61a711225/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/linkedin-sombre.svg"><img src="assets/linkedin-clair.svg" alt="LinkedIn de Timothé Cagin" height="44"></picture></a>
 
 ---
 
@@ -70,14 +71,19 @@ flowchart TB
 | Qwen et Gemma, en local | Tri, classement, extraction, embeddings | Rendre seuls un verdict final |
 | Hermes | Messagerie : résumé du jour, alertes, décisions | Traiter de gros volumes |
 
-#### Les vitrines
+#### Réalisations
 
-| Dépôt | Ce qu'il montre |
+| Projet | Ce qu'il montre |
 |---|---|
+| [ICARUS](https://icarus-ia.fr) | Mon activité de conseil auprès des PME : flux documentaires et automatisation, chaque chiffre publié avec son périmètre et sa méthode |
 | [MoltBot Hub](https://github.com/TimoLeDozo/MoltBot-Hub) | Un rôle par moteur, l'échelle de repli local puis cloud, un titulaire par capacité choisi au banc, une porte humaine sur l'irréversible |
-| [Infrastructure](https://github.com/TimoLeDozo/Infrastructure) | <!-- mesure:outils -->633<!-- /mesure --> outils indexés, <!-- mesure:sondes -->113<!-- /mesure --> sondes qui savent échouer, un sas pour tout logiciel tiers, une note sur 20 pour chaque module |
+| [Infrastructure](https://github.com/TimoLeDozo/Infrastructure) | <!-- mesure:outils -->632<!-- /mesure --> outils indexés, <!-- mesure:sondes -->113<!-- /mesure --> sondes qui savent échouer, un sas pour tout logiciel tiers, une note sur 20 pour chaque module |
 
-Les dépôts exploités restent privés. Les vitrines publient une méthode, jamais une topologie. Chacune a son journal daté, dernier relevé le <!-- mesure:maj -->10/11/2026<!-- /mesure -->.
+Les dépôts exploités restent privés. Les vitrines publient une méthode, jamais une topologie. Chacune a son journal daté, dernier relevé le <!-- mesure:maj -->11/11/2026<!-- /mesure -->.
+
+#### Stack
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-sombre.svg"><img src="assets/stack-clair.svg" alt="Agents et automatisation : Claude Code, Codex, Ollama, MCP, RAG, n8n, Power Automate. Infrastructure : Docker, Tailscale, Linux, Git, Microsoft 365. Langages : Python, PowerShell, JavaScript, HTML et CSS. Méthodes : tests automatisés, sondes de santé, sas d'entrée, validation humaine." width="100%"></picture>
 
 #### Ce qui me guide
 
