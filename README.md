@@ -79,7 +79,7 @@ flowchart TB
 | [MoltBot Hub](https://github.com/TimoLeDozo/MoltBot-Hub) | Un rôle par moteur, l'échelle de repli local puis cloud, un titulaire par capacité choisi au banc, une porte humaine sur l'irréversible |
 | [Infrastructure](https://github.com/TimoLeDozo/Infrastructure) | <!-- mesure:outils -->664<!-- /mesure --> outils indexés, <!-- mesure:sondes -->120<!-- /mesure --> sondes qui savent échouer, un sas pour tout logiciel tiers, une note sur 20 pour chaque module |
 
-Les dépôts exploités restent privés. Les vitrines publient une méthode, jamais une topologie. Chacune a son journal daté, dernier relevé le <!-- mesure:maj -->15/11/2026<!-- /mesure -->.
+Les dépôts exploités restent privés. Les vitrines publient une méthode, jamais une topologie. Chacune a son journal daté, dernier relevé le <!-- mesure:maj -->16/11/2026<!-- /mesure -->.
 
 #### Stack
 
