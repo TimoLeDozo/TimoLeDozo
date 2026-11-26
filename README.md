@@ -80,9 +80,9 @@ flowchart TB
 | [agent-supply-gate](https://github.com/TimoLeDozo/agent-supply-gate) | Code : le sas qui examine un skill ou un serveur MCP tiers avant de l'installer, verdict VERT, ORANGE ou ROUGE avec ses raisons |
 | [ICARUS](https://icarus-ia.fr) | Mon activité de conseil auprès des PME : flux documentaires et automatisation, chaque chiffre publié avec son périmètre et sa méthode |
 | [MoltBot Hub](https://github.com/TimoLeDozo/MoltBot-Hub) | Un rôle par moteur, l'échelle de repli local puis cloud, un titulaire par capacité choisi au banc, une porte humaine sur l'irréversible |
-| [Infrastructure](https://github.com/TimoLeDozo/Infrastructure) | <!-- mesure:outils -->782<!-- /mesure --> outils indexés, <!-- mesure:sondes -->144<!-- /mesure --> sondes qui savent échouer, un sas pour tout logiciel tiers, une note sur 20 pour chaque module |
+| [Infrastructure](https://github.com/TimoLeDozo/Infrastructure) | <!-- mesure:outils -->793<!-- /mesure --> outils indexés, <!-- mesure:sondes -->151<!-- /mesure --> sondes qui savent échouer, un sas pour tout logiciel tiers, une note sur 20 pour chaque module |
 
-Les trois premiers dépôts sont du code extrait de l'infrastructure, testé et installable. Les dépôts exploités restent privés. Les vitrines publient une méthode, jamais une topologie. Chacune a son journal daté, dernier relevé le <!-- mesure:maj -->25/11/2026<!-- /mesure -->.
+Les trois premiers dépôts sont du code extrait de l'infrastructure, testé et installable. Les dépôts exploités restent privés. Les vitrines publient une méthode, jamais une topologie. Chacune a son journal daté, dernier relevé le <!-- mesure:maj -->26/11/2026<!-- /mesure -->.
 
 #### Stack
 
